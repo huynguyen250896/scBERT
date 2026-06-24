@@ -7,7 +7,7 @@ Reliable cell type annotation is a prerequisite for downstream analysis of singl
 
 # Community Projects
 
-- [nano-scBERT](https://github.com/huynguyen250896/nano-scBERT): A lightweight educational reimplementation inspired by scBERT, designed to make the core ideas easier to read, extend, benchmark, and study.
+[nano-scBERT](https://github.com/huynguyen250896/nano-scBERT): A lightweight educational reimplementation inspired by scBERT, designed to make the core ideas easier to read, extend, benchmark, and study.
 
 # Install
 
